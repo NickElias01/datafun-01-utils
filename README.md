@@ -1,2 +1,4 @@
 # datafun-01-utils
-Week 1 assignment NWMSU Intro to DA
+Reusable utilities for my Python projects
+
+Test your Python Code with [Python Online](https://www.online-python.com)
